@@ -6,6 +6,9 @@
   peotr60@mail.ru
 
 https://github.com/Peotr-B/draw_spectrum.git
+
+18июн23
+Обновление для возобновления работы
 =============================================================
 
  https://marsohod.org/11-blog/326-draw-spectrum
